@@ -2,10 +2,7 @@
   "name": "softpyramid/itel-sms",
   "description": "This package send sms to phone numbers",
   "type": "library",
-  "require": {
-    "php": "^8.0.2",
-    "illuminate/support": "9.x-dev"
-  },
+  "require": {},
   "license": "MIT",
   "autoload": {
     "psr-4": {
